@@ -13,7 +13,7 @@ La API de Customer Management proporciona endpoints para administrar clientes y 
 
 1. Primero clonamos el repositorio
 
-``` ```
+```git clone https://github.com/andresoberto/Customer-Management.git```
 
 2. Abrimos el proyecto y copiaremos el contenido del archivo .env.example a un nuevo archivo .env
 
